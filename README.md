@@ -1,4 +1,4 @@
-# README: N-Queen Problem Using Hill Climbing Algorithm
+# N-Queen Problem Using Hill Climbing Algorithm
 
 ## **Project Overview**
 
@@ -55,7 +55,7 @@ The primary objective of this project is to implement the **Hill Climbing Algori
    - The algorithm stops when a solution with zero conflicts is found.
    - If the algorithm cannot improve after a set number of iterations (Maximum Still Hn), a new random board configuration is tried.
 
-![states](https://github.com/Sid330s/Sid330s/raw/main/docs/states.jpeg)
+![states](https://github.com/Sid330s/N-Queen-Problem/blob/main/docs/states.jpeg)
 
 ---
 
