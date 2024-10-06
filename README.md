@@ -1,4 +1,4 @@
-# README: N-Queen Problem Using Hill Climbing Algorithm
+# N-Queen Problem Using Hill Climbing Algorithm
 
 ## **Project Overview**
 
@@ -8,35 +8,9 @@ The **Hill Climbing Algorithm** is a local search optimization technique that it
 
 ---
 
-## **Project Details**
-
-### **Title:**  
-N-Queen Problem using Hill Climbing Algorithm
-
-### **Type:**  
-Course Project - Artificial Intelligence
-
-### **Group No:**  
-TY-58
-
-### **Guide:**  
-Prof. (Dr.) Bhutkar Ganesh Dattatray
-
-### **Members:**
-1. **Prashil Jambhulkar** (Roll No: 11810849)
-2. **Sampatlal Jangid** (Roll No: 11811238)
-3. **Siddharth Kale** (Roll No: 11810562)
-4. **Vedant Mahajan** (Roll No: 11810123)
-
----
-
 ## **Objective**
 
-The primary objective of this project is to implement the **Hill Climbing Algorithm** to solve the **N-Queen Problem**. The project involves:
-1. Initializing a random board configuration.
-2. Calculating the number of attacks (conflicts) between queens.
-3. Iteratively adjusting the position of queens to reduce the number of conflicts.
-4. Stopping when a solution is found (i.e., zero conflicts) or when the algorithm reaches a local optimum.
+The primary objective of this project is to implement the **Hill Climbing Algorithm** to solve the **N-Queen Problem**. 
 
 ---
 
@@ -55,7 +29,7 @@ The primary objective of this project is to implement the **Hill Climbing Algori
    - The algorithm stops when a solution with zero conflicts is found.
    - If the algorithm cannot improve after a set number of iterations (Maximum Still Hn), a new random board configuration is tried.
 
-![states](https://github.com/Sid330s/Sid330s/raw/main/docs/states.jpeg)
+![states](https://github.com/Sid330s/N-Queen-Problem/blob/main/docs/states.jpeg)
 
 ---
 
@@ -150,3 +124,21 @@ The time complexity of the Hill Climbing Algorithm in this case is approximately
 
 This project demonstrates how the Hill Climbing algorithm can be applied to solve the N-Queen problem. It provides a practical example of local search techniques in artificial intelligence and showcases the challenges of dealing with local optima and solution convergence in optimization problems.
 
+---
+
+## **Project Details**
+
+| **Title**                                           | N-Queen Problem using Hill Climbing Algorithm           |
+|-----------------------------------------------------|--------------------------------------------------------|
+| **Type**                                            | Course Project - Artificial Intelligence               |
+| **Group No**                                        | TY-58                                                  |
+| **Guide**                                           | Prof. (Dr.) Bhutkar Ganesh Dattatray                   |
+
+| **Members**                                          |                                                      |
+|-----------------------------------------------------|------------------------------------------------------|
+| **Prashil Jambhulkar**                              | Roll No: 11810849                                    |
+| **Sampatlal Jangid**                                | Roll No: 11811238                                    |
+| **Siddharth Kale**                                  | Roll No: 11810562                                    |
+| **Vedant Mahajan**                                  | Roll No: 11810123                                    |
+
+---
